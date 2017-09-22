@@ -1,6 +1,6 @@
 import math
 
-##city parameters 
+##city parameters
 radius = 0.87544195
 ##city list
 Cities = [
