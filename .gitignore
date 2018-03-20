@@ -1,1 +1,13 @@
 /sparkCity/CityTextCorpus
+*.pyc
+.DS_Store
+.idea/
+/geoSenstiveDiscovery/notCommonGeoSensitiveWord/
+/geoSenstiveDiscovery/commonGeoSensitiveWord/
+/geoSenstiveDiscovery/geoSensitiveWord/
+/geoSenstiveDiscovery/histogramSim/
+/geoSenstiveDiscovery/cityMeanResult
+/word2vec/Word2vec_model/
+/word2vec/CityPhraseTextCorpus/
+/word2vec/CityTextCorpus/
+/word2vec/.ipynb_checkpoints/
